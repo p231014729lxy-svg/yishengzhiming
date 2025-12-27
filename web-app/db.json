@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": "Zt45t4DQoWZXWRYweeWEP",
+      "username": "凇沐啊",
+      "password": "$2b$10$pz/weg6gwhf2H4ejCk98ZOLvgiASelO6aCJcKLbBDo8qBkwYRmWee",
+      "energy": 180,
+      "inviteCode": "vlidLP",
+      "invitedBy": null,
+      "createdAt": "2025-12-27T13:39:59.046Z"
+    }
+  ],
+  "invitations": [],
+  "treeHollow": [
+    {
+      "id": "X3CGi9_AhEBbiQoEdj7BY",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "username": "凇沐啊",
+      "content": "现在有点累",
+      "isPublic": true,
+      "type": "mood",
+      "title": "你好",
+      "image": "",
+      "likes": 1,
+      "moodTags": [
+        "迷茫"
+      ],
+      "isAnonymous": false,
+      "scheduledTime": null,
+      "timestamp": "2025-12-27T15:08:57.969Z"
+    }
+  ],
+  "moodDiaries": [
+    {
+      "id": "MfvwoWZrLa0Dl8AZJ-dR_",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "mood": "焦虑",
+      "content": "原因: 作业写不完了\n应对: 不知道......",
+      "tags": [
+        "焦虑"
+      ],
+      "timestamp": "2025-12-27T15:15:57.706Z"
+    }
+  ],
+  "meditationRecords": [
+    {
+      "id": "OKD65mgPD_yqGZBRetBx4",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "duration": 15,
+      "type": "思念疏导",
+      "timestamp": "2025-12-27T15:13:55.463Z"
+    },
+    {
+      "id": "6DC7wfiAYxAkWzf32djbR",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "duration": 15,
+      "type": "思念疏导",
+      "timestamp": "2025-12-27T15:14:00.159Z"
+    },
+    {
+      "id": "ZdsxE-JURqfMzRC3k0UfI",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "duration": 30,
+      "type": "睡前放松",
+      "timestamp": "2025-12-27T15:14:03.206Z"
+    },
+    {
+      "id": "635NLvtaju8YpOSIyiM2o",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "duration": 10,
+      "type": "晨间唤醒",
+      "timestamp": "2025-12-27T15:14:07.466Z"
+    },
+    {
+      "id": "iJVhbcGyPv-PmwanTr-54",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "duration": 15,
+      "type": "思念疏导",
+      "timestamp": "2025-12-27T15:27:36.198Z"
+    }
+  ],
+  "memoryStories": [
+    {
+      "id": "aMoaSZs6VCfUJ2k_qZq-D",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "title": "",
+      "content": "",
+      "type": "text",
+      "tags": [],
+      "contributors": [],
+      "timestamp": "2025-12-27T14:52:44.480Z"
+    }
+  ],
+  "plantingDiaries": [
+    {
+      "id": "-3R3EYc3yqnIlXVSRmdQt",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "mood": "hopeful",
+      "content": "宝贝，你要快快长大",
+      "growthStage": 2,
+      "timestamp": "2025-12-27T15:09:45.177Z"
+    }
+  ],
+  "memorials": [
+    {
+      "id": "tJRSF-VGiW4PU3q2HqgEl",
+      "userId": "Zt45t4DQoWZXWRYweeWEP",
+      "name": "未",
+      "bio": "想",
+      "birthDate": "2025-12-27",
+      "deathDate": "2025-12-28",
+      "type": "private",
+      "messages": [],
+      "flowers": 0,
+      "timestamp": "2025-12-27T15:12:09.346Z"
+    }
+  ],
+  "plantingAssistance": []
+}
